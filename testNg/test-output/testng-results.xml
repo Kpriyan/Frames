@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-19T11:50:25 IST" name="Default suite" finished-at="2021-08-19T11:50:25 IST" duration-ms="114">
+    <groups>
+    </groups>
+    <test started-at="2021-08-19T11:50:25 IST" name="Default test" finished-at="2021-08-19T11:50:25 IST" duration-ms="114">
+      <class name="testNg.Listenersmethod">
+        <test-method signature="studentdetail(java.lang.String,java.lang.String,int)[pri:0, instance:testNg.Listenersmethod@73ee04c8]" started-at="2021-08-19T11:50:25 IST" name="studentdetail" data-provider="MyData" finished-at="2021-08-19T11:50:25 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vino]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentdetail -->
+        <test-method signature="studentdetail(java.lang.String,java.lang.String,int)[pri:0, instance:testNg.Listenersmethod@73ee04c8]" started-at="2021-08-19T11:50:25 IST" name="studentdetail" data-provider="MyData" finished-at="2021-08-19T11:50:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinoth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[124]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentdetail -->
+        <test-method signature="studentdetail(java.lang.String,java.lang.String,int)[pri:0, instance:testNg.Listenersmethod@73ee04c8]" started-at="2021-08-19T11:50:25 IST" name="studentdetail" data-provider="MyData" finished-at="2021-08-19T11:50:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinodh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[125]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentdetail -->
+      </class> <!-- testNg.Listenersmethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
